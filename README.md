@@ -86,4 +86,6 @@
 
 <img src="https://www.codewars.com/users/caiocsper/badges/small"/>
 
-<div align="right">(<a href="#top">back to top</a>)</div>
+<div align="right">
+    <a href="#top"><img height="50em" alt="back to top" src="https://github.com/caiocsper/caiocsper/blob/main/giphy.gif"></a>
+</div>
