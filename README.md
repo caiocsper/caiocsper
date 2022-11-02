@@ -86,6 +86,13 @@
 
 <img src="https://www.codewars.com/users/caiocsper/badges/small"/>
 
+<div align="center">
+
+  ![Snake animation](https://github.com/caiocsper/caiocsper/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 <div align="right">
     <a href="#top"><img height="50em" alt="back to top" src="https://github.com/caiocsper/caiocsper/blob/main/giphy.gif"></a>
 </div>
+  
+
