@@ -77,9 +77,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="175em" width="49%"  alt="Caio Pereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=caiocsper&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="175em" width="49%"  alt="Caio Pereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=caiocsper&show_icons=true&count_private=true&theme=discord_old_blurple&hide_border=true&bg_color=20232A"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocsper&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/> -->
-  <img height="175em" width="49%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="175em" width="49%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsper&langs_count=8&count_private=true&layout=compact&theme=discord_old_blurple&hide_border=true&bg_color=20232A"/>
 </div>
 
 ## Where I hone my skills
