@@ -25,7 +25,7 @@
   <a href="https://wa.me/5531996448144"><img src="https://img.shields.io/badge/WhatsApp-48C857?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-## Proficienct Technologies
+## Proficient Technologies
 
 ### Languages
 
