@@ -7,15 +7,15 @@
 
 - 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
 
-- 🌱 I’m currently learning Express and MySQL
+- 🌱 I’m currently learning OOP and SOLID
 
 - :handshake: I'm looking to collaborate with React and JS projects
 
 - 🌎 I'm Brazilian
 
-- 💬 Ask me about **JavaScript, Anime/Manga and Games**
+- 💬 Ask me about **Coding, Anime/Manga, Games and Anything**
 
-- 🎯 I'm studying to become a Full Stack Developer
+- 🎯 I'm studying to become a Back-End Developer
 
 ### Contact me
 
@@ -29,39 +29,30 @@
 ### Languages
 
 <div>
- 
-  ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![SQL](https://img.shields.io/badge/sql-%2320232a?style=for-the-badge&logoColor=white)
-</div>
-
-### Front-end
-
-<div>
 
   ![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS3-%2320232a?style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript)
+  ![SQL](https://img.shields.io/badge/sql-%2320232a?style=for-the-badge&logoColor=white)
+</div>
+
+### Frameworks & Libraries
+
+<div>
+
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
   ![Redux](https://img.shields.io/badge/Redux-%2320232a?style=for-the-badge&logo=redux&logoColor=593D88)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</div>
-
-### Back-end
-
-<div>
-
   ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2497ED)
   ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=43853D)
   ![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Sequelize](https://img.shields.io/badge/sequelize-%2320232a.svg?style=for-the-badge&logo=sequelize)
   ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white)
-</div>
-
-### Tests
-
-<div>
-  
   ![JEST](https://img.shields.io/badge/Jest-%2320232a?style=for-the-badge&logo=Jest&logoColor=white)
   ![RTL](https://img.shields.io/badge/testing%20library-%2320232a?style=for-the-badge&logo=testing-library&logoColor=red)
   ![Chai](https://img.shields.io/badge/chai.js-%2320232a?style=for-the-badge&logo=chai&logoColor=red)
+  ![Sinon](https://img.shields.io/badge/sinon-%2320232a.svg?style=for-the-badge&logo=sinon)
 </div>
 
 ### Others
