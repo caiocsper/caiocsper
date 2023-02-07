@@ -50,9 +50,10 @@
   ![Sequelize](https://img.shields.io/badge/sequelize-%2320232a.svg?style=for-the-badge&logo=sequelize)
   ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![JEST](https://img.shields.io/badge/Jest-%2320232a?style=for-the-badge&logo=Jest&logoColor=white)
-  ![RTL](https://img.shields.io/badge/testing%20library-%2320232a?style=for-the-badge&logo=testing-library&logoColor=red)
+  ![RTL](https://img.shields.io/badge/RTL-%2320232a?style=for-the-badge&logo=testing-library&logoColor=red)
   ![Chai](https://img.shields.io/badge/chai.js-%2320232a?style=for-the-badge&logo=chai&logoColor=red)
-  ![Sinon](https://img.shields.io/badge/sinon-%2320232a.svg?style=for-the-badge&logo=sinon)
+  ![Mocha](https://img.shields.io/badge/mocha.js-%2320232a?style=for-the-badge&logo=mocha&logoColor=Brown)
+  ![Sinon](https://img.shields.io/badge/sinon.js-%2320232a.svg?style=for-the-badge&logo=sinon)
 </div>
 
 ### Others
