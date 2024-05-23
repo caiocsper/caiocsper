@@ -5,7 +5,7 @@
 ==========================================================================================================================================
 </div>
 
-- 💻 Web Developement Student at [Trybe](https://www.betrybe.com) 
+- 💻 Computer Science Student at PUCMG
 
 - 🌱 I’m currently learning OOP and SOLID
 
