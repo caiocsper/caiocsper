@@ -34,6 +34,10 @@
   ![CSS](https://img.shields.io/badge/CSS3-%2320232a?style=for-the-badge&logo=css3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript)
+  ![C](https://img.shields.io/badge/c-%2320232a.svg?style=for-the-badge&logo=c)
+  ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java)
+  ![C#](https://img.shields.io/badge/c#-%2320232a.svg?style=for-the-badge&logo=c#)
+  ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php)
   ![SQL](https://img.shields.io/badge/sql-%2320232a?style=for-the-badge&logoColor=white)
 </div>
 
