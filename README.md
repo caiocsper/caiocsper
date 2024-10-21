@@ -7,7 +7,7 @@
 
 - 💻 Computer Science Student at PUCMG
 
-- 🌱 I’m currently learning OOP and SOLID
+- 🌱 I’m currently learning Algorithms and Data Structures
 
 - :handshake: I'm looking to collaborate with React and JS projects
 
